@@ -39,7 +39,7 @@ python chaikin_visualizer.py
 
 ## 📸 Преглед
 
-![Примерен изглед]()
+![Примерен изглед](https://github.com/VladimirKotsev/ChaikinVisualizer/blob/main/Chaikin%20visualization.png)
 
 ## 📝 Забележки
 
